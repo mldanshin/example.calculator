@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="groovy-4.0.0" type="groovy-sdk">
+    <properties version="4.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-ant-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-astbuilder-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-cli-commons-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-cli-picocli-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-contracts-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-console-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-datetime-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-dateutil-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-docgenerator-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-ginq-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-groovydoc-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-groovysh-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-jmx-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-jsr223-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-macro-library-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-nio-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-macro-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-servlet-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-sql-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-swing-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-templates-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-test-junit5-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-test-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-testng-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-toml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-typecheckers-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-xml-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-ant-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-astbuilder-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-cli-commons-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-cli-picocli-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-console-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-contracts-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-datetime-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-dateutil-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-docgenerator-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-ginq-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-groovydoc-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-groovysh-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-jmx-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-jsr223-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-macro-library-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-macro-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-nio-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-servlet-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-sql-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-swing-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-templates-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-test-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-test-junit5-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-testng-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-toml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-typecheckers-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calculation/lib/groovy-xml-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
